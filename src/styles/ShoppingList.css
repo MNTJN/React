@@ -1,0 +1,35 @@
+.lmj-plant-list {
+	padding: 0;
+	list-style-type: none;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	gap: 10px;
+	row-gap: 20px;
+}
+
+.cat-select {
+	width: 100%;
+	padding: 5px 10px;
+	background: none;
+	border: 1px solid #000;
+}
+
+.lmj-cart-add-button {
+	margin-top: 10px;
+	cursor: pointer;
+	padding: 5px 10px;
+	background: none;
+	border: 1px solid black;
+	text-align: center;
+	width: 100%;
+}
+
+.lmj-cart-add-button:hover {
+	background-color: #31b472;
+	color: #fff;
+	border: 1px solid white
+}
+
+.shopping-list {
+	padding: 0 15px;
+}

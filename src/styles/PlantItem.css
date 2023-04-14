@@ -1,0 +1,28 @@
+.lmj-plant-item-cover {
+	height: 220px;
+	width: 220px;
+	border-radius: 20px;
+}
+
+.lmj-plant-item {
+	padding: 10px;
+	border: 1px solid black;
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	flex-direction: column;
+	text-transform: capitalize;
+}
+
+.item-name {
+	font-size: 20px;
+	padding: 0;
+	margin: 0;
+}
+
+.item-category {
+	font-size: 14px;
+	font-style: italic;
+	margin: 0;
+	padding: 0;
+}

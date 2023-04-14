@@ -1,0 +1,18 @@
+.item-description-modal {
+	padding: 10px 15px;
+	height: auto;
+}
+
+.item-description-modal h3 {
+	text-align: center;
+	font-weight: 20px;
+	margin: 0;
+	padding: 0;
+	text-transform: capitalize;
+}
+
+.item-price {
+	color: #31b472;
+	font-style: italic;
+	font-weight: bold;
+}
